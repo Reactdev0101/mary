@@ -1,1 +1,2 @@
 vless://6c97bc00-858a-477e-8ade-becd7f7e6699@176.124.205.51:443?security=reality&sni=www.smartles.ru&fp=chrome&pbk=x-4fOxo9y5Dv3bD98Wz6skan5vV7bz_myiIIBBf24B4&sid=2116916d8d5b&spx=/&type=tcp&encryption=none#USA-5slhbyjx
+vless://8e36bd68-b4af-4fa6-aa00-2fe09d14be76@193.233.84.100:443?security=reality&sni=master-prodazh.ru&allowInsecure=1&fp=chrome&pbk=8QPLLiGZB5DHV6lXVifZK3T6GO5Rmk9zvL0HZUgAqQs&sid=7f9e5daca65a2341&spx=/example&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20-%20R1%20%20(Sha_SH)
