@@ -3,3 +3,5 @@ vless://e0824fdb-018d-419c-9a65-9e8583ea905f@37.220.86.228:443?mode=auto&path=%2
 vless://6384b8b9-2beb-45f5-80a3-f3c5eb90a0c6@94.241.171.91:8443?type=tcp&security=reality&pbk=E5i0zN1JqDv70rW-UANVeriP9Xi_X5quL8yBsz15-EA&fp=chrome&sni=google.com&sid=6f&spx=%2F&flow=xtls-rprx-vision#Frankfurt%2C%20Germany-VIP1
 
 vless://24337c92-fc95-451c-b0e0-4091fb9edabf@94.241.171.91:443?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=PvV6YAvT02eHf7SkxJ8y6A79jiT1ViMR8BW1tYzA3DM&fp=chrome&sni=google.com&sid=f2&spx=%2F#Stockholm%2C%20Sweden-VIP1
+
+vless://85caac6f-1dc9-4464-8254-166b98b33ad7@94.241.171.91:2053?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=qbTFjtWJxwreHsucvRZhczpApDKDws5e0d5Wm3N0XE4&fp=chrome&sni=google.com&sid=5afab4&spx=%2F#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F-VIP-1
